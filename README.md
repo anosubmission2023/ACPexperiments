@@ -1,6 +1,6 @@
 Temporary repository for the paper: Adaptive Conformal Prediction By Reweighting Nonconfirmity Score
 
-*Adaptive Conformal Prediction* (ACP) is a Python package that aims to provide 
+**Adaptive Conformal Prediction** (ACP) is a Python package that aims to provide 
 Adaptive Predictive Interval (PI) that better represent the uncertainty of the 
 model by reweighting the NonConformal Score with the learned weights of a Random Forest.
  
