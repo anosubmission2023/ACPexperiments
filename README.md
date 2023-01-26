@@ -39,7 +39,7 @@ we use QRF-TC as it is as accurate than the others while being more fast. The co
 LCP-RF and LCP-RF-G is not optimized yet.
 
 
-**I. To compute the PI of a given model (mean_estimator or quantile_score) using QRF-TC. First, we need to define ACXplainer module which has the same 
+**I. To compute the PI of a given model (mean_estimator or quantile_estimator) using QRF-TC. First, we need to define ACXplainer module which has the same 
 parameters as a classic RandomForest, and its parameters should be optimized to predict accurately the nonconfirmity score of the calibration datasets of the model.**
 ```python
 from ACP.acv_explainers import ACXplainer
