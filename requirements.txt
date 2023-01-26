@@ -1,0 +1,23 @@
+scipy
+matplotlib
+seaborn
+tqdm
+Cython
+numpy < 1.22
+scikit-learn == 1.0.2
+pandas
+xgboost
+lightgbm
+catboost
+imodels
+keras
+tensorflow
+skranger
+streamlit
+anchor-exp
+shap
+pybind11
+torch
+torchvision
+notebook
+tqdm

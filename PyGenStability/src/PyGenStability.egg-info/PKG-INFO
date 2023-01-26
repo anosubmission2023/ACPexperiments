@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: PyGenStability
+Version: 0.1.7
+Summary: Python binding of generalised Louvain with Markov Stability
+Home-page: https://github.com/ImperialCollegeLondon/PyGenStability
+Author: Alexis Arnaudon
+Author-email: alexis.arnaudon@epfl.ch
+Provides-Extra: plotly
+Provides-Extra: all
+License-File: LICENSE

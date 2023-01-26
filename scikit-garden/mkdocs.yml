@@ -1,0 +1,14 @@
+site_name: Scikit-garden
+site_description: 'Documentation for scikit-garden'
+pages:
+  - Home: 'index.md'
+  - API Reference: 'api.md'
+  - Examples:
+      - "examples/index.md"
+      - Mondrian Tree Tutorial: 'examples/MondrianTreeRegressor.md'
+      - Quantile Regression Forests: 'examples/QuantileRegressionForests.md'
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+markdown_extensions:
+    - mdx_math
+theme: readthedocs
